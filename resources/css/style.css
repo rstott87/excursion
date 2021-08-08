@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.explanation {
+    color: gray;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 50px;
+
+}
+h2 {
+    font-size: 40px;
+}
+
+a {
+    color: rgb(52, 230, 200);
+}
